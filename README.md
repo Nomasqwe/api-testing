@@ -3,6 +3,8 @@
 <ul>
 <li><a href = "https://www.postman.com/cloudy-robot-688203/workspace/petstore/collection/31408658-a5eceec5-b75d-4097-afb1-3df7e95aabdd">Коллекция Postman для petstore (REST)</a></li>
 <li><a>Тест-кейсы для раздела "store"</a></li>
-<li></li>
 </ul>
-Также в Postman мною был протестирован SOAP протокол. Для тестирования была взята следующая <a href = "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>. Я создал коллекцию в Postman, которая может использоваться для определения: валюты страны, полной информации о стране и информации о языке, специфичном для страны.
+Также испольуя тетстовую <a href = "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">WSDL</a>, я создал коллекцию в Postman, которая может использоваться для определения: валюты страны, полной информации о стране и информации о языке, специфичном для страны.
+<ul>
+<li><a href = "https://www.postman.com/cloudy-robot-688203/workspace/petstore/collection/31408658-ce03edb3-8f29-400b-a356-9ee55fb125df">Коллекция Postman для SOAP</a></li>
+</ul>
